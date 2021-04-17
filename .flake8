@@ -1,0 +1,6 @@
+[flake8]
+count = true
+exclude = tests
+max-complexity = 10
+max-line-length = 127
+statistics = true
